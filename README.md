@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sonali
 - 👀 I’m interested in Python development - FastAPI, Numpy, Scipy, OpenCV, Sklearn, Flask, Django, BeautifulSoup, etc.
-- 🌱 I’m currently learning cryptography - password cracking using HashCat software.
+- 🌱 I’m currently learning Y.js and Lexical - collaborative editing library and block based editor.
 - 💞️ I’m looking to collaborate on python libraries implementing performant CRDT.
 - 📫 How to reach me - Mail Id: sonaligupta2510@gmail.com
 
